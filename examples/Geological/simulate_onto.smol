@@ -198,7 +198,7 @@ end
 hidden class Driver(GeoUnit top, GeoUnit bottom)
 
    Unit sim(List<DepositionGenerator> actions, Double startPast, GeoUnit init, Double checkStart)
-        //print("> Starting simulation with t=-");
+        print("> Starting simulation with t=-");
         //print(startPast);
         this.top = init;
         this.bottom = init;
