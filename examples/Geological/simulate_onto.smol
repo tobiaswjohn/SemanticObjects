@@ -171,10 +171,10 @@ class ShaleUnit extends GeoUnit (hidden Double temperature, hidden Boolean hasKe
             this.maturedUnits = this.maturedUnits + 1;
             print(">> maturation on-going!");
             Double under = this.getSizeAbove();
-            print(">> depth");
-            print(under);
-            print(">> temp");
-            print(this.temperature);
+            //print(">> depth");
+            //print(under);
+            //print(">> temp");
+            //print(this.temperature);
         end
     end
     override Boolean caps() return True; end
@@ -219,12 +219,12 @@ hidden class Driver(GeoUnit top, GeoUnit bottom)
                 end
                 now = now + dg.duration;
                 this.bottom.updateAll();
-                print("> Updating simulation with t =");
+                print("t:");
                 print(now);
-                this.printState(this.bottom);
+                //this.printState(this.bottom);
                 if now > checkStart  then
                     List<ShaleUnit> fs = member("<domain:models> some (<obo:RO_0000056> some <domain:oil_window_maturation_trigger>)");
-                    print("reasoning finished");
+                    //print("reasoning finished");
                     while fs != null do
                       fs.content.mature();
                       List<ShaleUnit> os = fs;

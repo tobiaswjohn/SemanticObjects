@@ -1,0 +1,314 @@
+> Task :generateGrammarSource UP-TO-DATE
+> Task :compileKotlin UP-TO-DATE
+> Task :compileJava UP-TO-DATE
+> Task :compileScala NO-SOURCE
+> Task :processResources UP-TO-DATE
+> Task :classes UP-TO-DATE
+> Task :shadowJar UP-TO-DATE
+
+BUILD SUCCESSFUL in 489ms
+5 actionable tasks: 5 up-to-date
+Line 226, WARNING: Type checking this form of (C)SSA is not supported yet 
+Line 262, ERROR: Type ChalkUnit is not assignable to SandstoneUnit
+Line 266, ERROR: Type ChalkUnit is not assignable to SandstoneUnit
+MO-out> Evaluation took 0.206422942 seconds 
+
+"> Starting simulation with t=-"
+"t:"
+-134.0
+"t:"
+-132.0
+"t:"
+-130.0
+"t:"
+-128.0
+"t:"
+-126.0
+"t:"
+-124.0
+"t:"
+-122.0
+"t:"
+-120.0
+"t:"
+-118.0
+"t:"
+-116.0
+"t:"
+-114.0
+"t:"
+-112.0
+"t:"
+-110.0
+"t:"
+-108.0
+"t:"
+-106.0
+"t:"
+-104.0
+"t:"
+-102.0
+"t:"
+-100.0
+"t:"
+-98.0
+"t:"
+-96.0
+"t:"
+-94.0
+"t:"
+-92.0
+"t:"
+-90.0
+"t:"
+-88.0
+"t:"
+-86.0
+"t:"
+-84.0
+"t:"
+-82.0
+"t:"
+-80.0
+"t:"
+-78.0
+"t:"
+-76.0
+"t:"
+-74.0
+"t:"
+-72.0
+"t:"
+-70.0
+"t:"
+-68.0
+"t:"
+-66.0
+"t:"
+-64.0
+"t:"
+-62.0
+"t:"
+-60.0
+"t:"
+-58.0
+"t:"
+-56.0
+"t:"
+-54.0
+"t:"
+-52.0
+">> maturation on-going!"
+"migrate from shale"
+"t:"
+-50.0
+">> maturation on-going!"
+"migrate from shale"
+"t:"
+-48.0
+">> maturation on-going!"
+"migrate from shale"
+"t:"
+-46.0
+">> maturation on-going!"
+"migrate from shale"
+"t:"
+-44.0
+">> maturation on-going!"
+"migrate from shale"
+"t:"
+-42.0
+">> maturation on-going!"
+"migrate from shale"
+"t:"
+-40.0
+">> maturation on-going!"
+"migrate from shale"
+"t:"
+-38.0
+">> maturation on-going!"
+"migrate from shale"
+"t:"
+-36.0
+">> maturation on-going!"
+"migrate from shale"
+"t:"
+-34.0
+">> maturation on-going!"
+"migrate from shale"
+"t:"
+-32.0
+">> maturation on-going!"
+"migrate from shale"
+"t:"
+-30.0
+">> maturation on-going!"
+"migrate from shale"
+"t:"
+-28.0
+">> maturation on-going!"
+"migrate from shale"
+"trap"
+"t:"
+-26.0
+">> maturation on-going!"
+"migrate from shale"
+"trap"
+"trap"
+"t:"
+-24.0
+">> maturation on-going!"
+"migrate from shale"
+"trap"
+"trap"
+"trap"
+"t:"
+-22.0
+">> maturation on-going!"
+"migrate from shale"
+"trap"
+"trap"
+"trap"
+"trap"
+"t:"
+-20.0
+">> maturation on-going!"
+"migrate from shale"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"t:"
+-18.0
+">> maturation on-going!"
+"migrate from shale"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"t:"
+-16.0
+">> maturation on-going!"
+"migrate from shale"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"t:"
+-14.0
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"t:"
+-12.0
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"t:"
+-10.0
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"t:"
+-8.0
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"t:"
+-6.0
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"t:"
+-4.0
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"t:"
+-2.0
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"t:"
+0.0
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"trap"
+"t:"
+2.0
+"> Ending simulation with t =-"
+2.0
